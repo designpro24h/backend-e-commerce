@@ -29,6 +29,4 @@ api Documentation already available in /docs at this app, provide by scribe.
 
 Thank you for considering contributing to the Ecommerce App!
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability, please send an e-mail to Kazuki via [contact@kazukikun.space](mailto:contact@kazukikun.space). All security vulnerabilities will be promptly addressed.
